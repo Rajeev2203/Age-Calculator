@@ -1,5 +1,6 @@
 # Age-Calculator
 It is a simple Javascript project which calculates our age in years,months & days.
+</br></br>
 
 ## 💻Tech Stack
 <br>
@@ -23,9 +24,13 @@ git clone https://github.com/Rajeev2203/Age-Calculator
 - Go to the directory
 - Run the index.html file
 - Enter your DOB and find age..
+</br>
 
 ## Default view
-![Age Calculator](https://github.com/Rajeev2203/Age-Calculator/assets/91407422/ac7cd9c6-869a-497b-821e-7c62e27b1220)
-![Result](https://github.com/Rajeev2203/Age-Calculator/assets/91407422/6d9d5d10-b0f8-4685-bebe-d1a4dd130a0e)
+<p><img src="https://github.com/Rajeev2203/Age-Calculator/blob/main/Age%20Calculator.png" alt="image">
+<br><br>
+
+## Result view
+<img src="https://github.com/Rajeev2203/Age-Calculator/blob/main/Result.png" alt="image"></p>
 
 
